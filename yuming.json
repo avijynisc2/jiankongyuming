@@ -1,20 +1,128 @@
 [
-  { "domain": "ssmm.us.kg", "registrationDate": "2025-02-11", "expirationDate": "2026-02-11", "system": "US.KG", "systemURL": "https://nic.us.kg/" },
-  { "domain": "uuee.us.kg", "registrationDate": "2025-02-11", "expirationDate": "2026-02-11", "system": "US.KG", "systemURL": "https://nic.us.kg/" },
-  { "domain": "uuxx.us.kg", "registrationDate": "2025-02-11", "expirationDate": "2026-02-11", "system": "US.KG", "systemURL": "https://nic.us.kg/" },
-  { "domain": "9119.us.kg", "registrationDate": "2025-02-11", "expirationDate": "2026-02-11", "system": "US.KG", "systemURL": "https://nic.us.kg/" },
-  { "domain": "bossx.us.kg", "registrationDate": "2025-02-11", "expirationDate": "2026-02-11", "system": "US.KG", "systemURL": "https://nic.us.kg/" },
-  { "domain": "uubaishu.us.kg", "registrationDate": "2025-02-11", "expirationDate": "2026-02-11", "system": "US.KG", "systemURL": "https://nic.us.kg/" },
-  { "domain": "misss.us.kg", "registrationDate": "2025-02-11", "expirationDate": "2026-02-11", "system": "US.KG", "systemURL": "https://nic.us.kg/" },
-  { "domain": "pssss.us.kg", "registrationDate": "2025-02-11", "expirationDate": "2026-02-11", "system": "US.KG", "systemURL": "https://nic.us.kg/" },
-  { "domain": "yydss.us.kg", "registrationDate": "2025-02-11", "expirationDate": "2026-02-11", "system": "US.KG", "systemURL": "https://nic.us.kg/" },
-  { "domain": "vig.pp.ua", "registrationDate": "2024-09-17", "expirationDate": "2024-09-17", "system": "NIC.UA", "systemURL": "https://nic.ua/en" },
-  { "domain": "entt.pp.ua", "registrationDate": "2024-09-17", "expirationDate": "2024-09-17", "system": "NIC.UA", "systemURL": "https://nic.ua/en" },
-  { "domain": "sot.pp.ua", "registrationDate": "2024-09-17", "expirationDate": "2024-09-17", "system": "NIC.UA", "systemURL": "https://nic.ua/en" },
-  { "domain": "yydss.nyc.mn", "registrationDate": "2024-09-01", "expirationDate": "2099-12-30", "system": "NYC.MN", "systemURL": "https://dot.nyc.mn/" },
-  { "domain": "bossx.nyc.mn", "registrationDate": "2024-09-06", "expirationDate": "2099-12-30", "system": "NYC.MN", "systemURL": "https://dot.nyc.mn/" },
-  { "domain": "kissme.nyc.mn", "registrationDate": "2024-09-07", "expirationDate": "2099-12-30", "system": "NYC.MN", "systemURL": "https://dot.nyc.mn/" },
-  { "domain": "gent27.cloudns.be", "registrationDate": "2024-08-10", "expirationDate": "2034-08-10", "system": "cloudns.be", "systemURL": "https://www.cloudns.net/" },
-  { "domain": "520116.xyz", "registrationDate": "2024-08-28", "expirationDate": "2030-08-28", "system": "SpaceShip", "systemURL": "https://www.spaceship.com/zh" },
-  { "domain": "520660.xyz", "registrationDate": "2024-09-02", "expirationDate": "2034-09-02", "system": "SpaceShip", "systemURL": "https://www.spaceship.com/zh" }
+  {
+    "domain": "ssmm.us.kg",
+    "registrationDate": "2025-02-11",
+    "expirationDate": "2026-02-11",
+    "system": "US.KG",
+    "systemURL": "https://nic.us.kg/"
+  },
+  {
+    "domain": "uuee.us.kg",
+    "registrationDate": "2025-02-11",
+    "expirationDate": "2026-02-11",
+    "system": "US.KG",
+    "systemURL": "https://nic.us.kg/"
+  },
+  {
+    "domain": "uuxx.us.kg",
+    "registrationDate": "2025-02-11",
+    "expirationDate": "2026-02-11",
+    "system": "US.KG",
+    "systemURL": "https://nic.us.kg/"
+  },
+  {
+    "domain": "9119.us.kg",
+    "registrationDate": "2025-02-11",
+    "expirationDate": "2026-02-11",
+    "system": "US.KG",
+    "systemURL": "https://nic.us.kg/"
+  },
+  {
+    "domain": "bossx.us.kg",
+    "registrationDate": "2025-02-11",
+    "expirationDate": "2026-02-11",
+    "system": "US.KG",
+    "systemURL": "https://nic.us.kg/"
+  },
+  {
+    "domain": "uubaishu.us.kg",
+    "registrationDate": "2025-02-11",
+    "expirationDate": "2026-02-11",
+    "system": "US.KG",
+    "systemURL": "https://nic.us.kg/"
+  },
+  {
+    "domain": "misss.us.kg",
+    "registrationDate": "2025-02-11",
+    "expirationDate": "2026-02-11",
+    "system": "US.KG",
+    "systemURL": "https://nic.us.kg/"
+  },
+  {
+    "domain": "pssss.us.kg",
+    "registrationDate": "2025-02-11",
+    "expirationDate": "2026-02-11",
+    "system": "US.KG",
+    "systemURL": "https://nic.us.kg/"
+  },
+  {
+    "domain": "yydss.us.kg",
+    "registrationDate": "2025-02-11",
+    "expirationDate": "2026-02-11",
+    "system": "US.KG",
+    "systemURL": "https://nic.us.kg/"
+  },
+  {
+    "domain": "vig.pp.ua",
+    "registrationDate": "2024-09-17",
+    "expirationDate": "2024-09-17",
+    "system": "NIC.UA",
+    "systemURL": "https://nic.ua/en"
+  },
+  {
+    "domain": "entt.pp.ua",
+    "registrationDate": "2024-09-17",
+    "expirationDate": "2024-09-17",
+    "system": "NIC.UA",
+    "systemURL": "https://nic.ua/en"
+  },
+  {
+    "domain": "sot.pp.ua",
+    "registrationDate": "2024-09-17",
+    "expirationDate": "2024-09-17",
+    "system": "NIC.UA",
+    "systemURL": "https://nic.ua/en"
+  },
+  {
+    "domain": "yydss.nyc.mn",
+    "registrationDate": "2024-09-01",
+    "expirationDate": "2099-12-30",
+    "system": "NYC.MN",
+    "systemURL": "https://dot.nyc.mn/"
+  },
+  {
+    "domain": "bossx.nyc.mn",
+    "registrationDate": "2024-09-06",
+    "expirationDate": "2099-12-30",
+    "system": "NYC.MN",
+    "systemURL": "https://dot.nyc.mn/"
+  },
+  {
+    "domain": "kissme.nyc.mn",
+    "registrationDate": "2024-09-07",
+    "expirationDate": "2099-12-30",
+    "system": "NYC.MN",
+    "systemURL": "https://dot.nyc.mn/"
+  },
+  {
+    "domain": "gent27.cloudns.be",
+    "registrationDate": "2024-08-10",
+    "expirationDate": "2034-08-10",
+    "system": "cloudns.be",
+    "systemURL": "https://www.cloudns.net/"
+  },
+  {
+    "domain": "520116.xyz",
+    "registrationDate": "2024-08-28",
+    "expirationDate": "2030-08-28",
+    "system": "SpaceShip",
+    "systemURL": "https://www.spaceship.com/zh"
+  },
+  {
+    "domain": "520660.xyz",
+    "registrationDate": "2024-09-02",
+    "expirationDate": "2034-09-02",
+    "system": "SpaceShip",
+    "systemURL": "https://www.spaceship.com/zh"
+  }
 ]
