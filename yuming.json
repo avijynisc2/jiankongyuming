@@ -124,5 +124,12 @@
     "expirationDate": "2034-09-02",
     "system": "SpaceShip",
     "systemURL": "https://www.spaceship.com/zh"
+  },
+  {
+    "domain": "calonbos.eu.org",
+    "registrationDate": "2025-02-13",
+    "expirationDate": "2099-12-30",
+    "system": "EU.ORG",
+    "systemURL": "https://nic.eu.org/"
   }
 ]
